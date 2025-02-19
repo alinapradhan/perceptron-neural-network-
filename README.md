@@ -1,2 +1,2 @@
 # perceptron-neural-network-
-perceptron neural network for unsupervised dataset 
+perceptron neural network for an unsupervised dataset 
